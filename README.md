@@ -10,3 +10,4 @@ contract EtherReceiver {
         balance += msg.value;
     }
 }
+Fix minor bug in function
