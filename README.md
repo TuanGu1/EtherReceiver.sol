@@ -12,3 +12,4 @@ contract EtherReceiver {
 }
 Fix minor bug in function
 Update logic for better performance
+Refactor code for readability
