@@ -16,3 +16,4 @@ Refactor code for readability
 Add new feature
 Remove unused code
 Improve naming scheme
+Add event logging
